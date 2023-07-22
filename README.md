@@ -1,11 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://sheharaedirisinghe.io)
 <h1 align="center">Hi 👋, I'm Shehara Edirisinghe</h1>
 <h3 align="center">A passionate Quality Assurance from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/programming-gif-25868426](https://dribbble.com/shots/7466903-Hello-Dribbble.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehara-98&label=Profile%20views&color=0e75b6&style=flat" alt="shehara-98" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehara-98" alt="shehara-98" /></a> </p>
 
 - 🌱 I’m currently learning **Selenium, Cucumber frame work**
 
@@ -26,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehara-98&show_icons=true&locale=en&layout=compact" alt="shehara-98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehara-98&show_icons=true&locale=en" alt="shehara-98" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehara-98&" alt="shehara-98" /></p>

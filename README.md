@@ -1,3 +1,4 @@
+![w8ZJLtJbmuph](https://github.com/Shehara-98/Shehara-98/assets/85471936/9143f2fe-d17f-45f1-b4fd-48f0a0dbb2f7)
 <h1 align="center">Hi 👋, I'm Shehara Edirisinghe</h1>
 <h3 align="center">A passionate Quality Assurance from Sri Lanka</h3>
 

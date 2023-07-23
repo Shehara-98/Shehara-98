@@ -1,6 +1,6 @@
-![w8ZJLtJbmuph](https://github.com/Shehara-98/Shehara-98/assets/85471936/9143f2fe-d17f-45f1-b4fd-48f0a0dbb2f7)
+![Q7i1](https://github.com/Shehara-98/Shehara-98/assets/85471936/8dae1223-dfbd-4171-b0e3-fdcd1e2b8290)
 <h1 align="center">Hi 👋, I'm Shehara Edirisinghe</h1>
-<h3 align="center">A passionate Quality Assurance from Sri Lanka</h3>
+<h3 align="center">A passionate Quality Assurance Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehara-98&label=Profile%20views&color=0e75b6&style=flat" alt="shehara-98" /> </p>
 
